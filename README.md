@@ -1,5 +1,6 @@
 PHP Strong Password Generator
 ===
+
 nome repo: php-strong-password-generator
 **Descrizione**
 Dobbiamo creare una pagina che permetta ai nostri utenti di utilizzare il nostro generatore di password (abbastanza) sicure.
